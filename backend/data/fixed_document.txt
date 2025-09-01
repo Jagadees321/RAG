@@ -1,0 +1,28 @@
+Sample Document Content
+
+This is a sample document that will be used for the RAG chat system. 
+You can edit this content through the frontend interface.
+
+Section 1: Introduction
+This document contains various topics and information that users can ask questions about.
+
+Section 2: Technology
+The system uses advanced AI and vector embeddings to provide intelligent responses.
+
+Section 3: Features
+- PDF text extraction
+- Vector embeddings
+- Semantic search
+- AI-powered responses
+- Content editing capabilities
+
+Section 4: Usage
+Users can ask questions about this document and receive accurate answers based on the content.
+
+Section 5: Benefits
+- No need to upload files repeatedly
+- Consistent document reference
+- Easy content updates
+- Efficient information retrieval
+
+This document serves as a foundation for the RAG chat system and can be modified as needed.
